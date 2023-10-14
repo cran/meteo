@@ -3,10 +3,10 @@ possible individual files also carry brief copyright notices.
 
 Copyrights
 ==========
-Most files are copyrighted by Milan Kilibarda; some have more authors;
+Most files are copyrighted by Milan Kilibarda and Aleksandar Sekulić; some have more authors;
 all other files (R files; documentation) are (C) Milan Kilibarda.
 
-    meteo, a program for spatio-temporal analysys and mapping of meteorological data
+    meteo, a program for RFSI and spacetime geostatistical interpolations for meteorological and other enviromental varialbles
     Copyright 2013 (C) Milan Kilibarda and others
 
     Milan Kilibarda, kili@grf.bg.ac.rs

@@ -1,14 +1,17 @@
 NLpol
+dem_twi_srb
 dprec
 dslp
 dsndp
 dtemp_maxc
 dtemp_minc
 dtempc
+dtempc_ogimet: dtempc
 dwdsp
 nlmodis20110704
 nlmodis20110712
 regdata
 stations
+stations_ogimet: stations
 tregcoef
 tvgms
