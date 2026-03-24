@@ -1,6 +1,6 @@
 Package: meteo
-Version: 2.0-3
-Date: 2024-04-16
+Version: 2.0-4
+Date: 2026-03-24
 Type: Package
 Encoding: UTF-8
 Title: RFSI & STRK Interpolation for Meteo and Environmental Variables
@@ -9,8 +9,9 @@ Authors@R: c(person("Milan", "Kilibarda", role = c("aut"), email = "kili@grf.bg.
              person("Tomislav", "Hengl", role = c("ctb")),
              person("Edzer", "Pebesma", role = c("ctb")),
              person("Benedikt", "Graeler", role = c("ctb")))
-Author: Milan Kilibarda [aut] (<https://orcid.org/0000-0002-2930-3596>),
-  Aleksandar Sekulić [aut, cre] (<https://orcid.org/0000-0002-5515-2779>),
+Author: Milan Kilibarda [aut] (ORCID: <https://orcid.org/0000-0002-2930-3596>),
+  Aleksandar Sekulić [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-5515-2779>),
   Tomislav Hengl [ctb],
   Edzer Pebesma [ctb],
   Benedikt Graeler [ctb]
@@ -26,9 +27,10 @@ Imports: methods, utils, stats, DescTools, caret, data.table, dplyr,
         sp, spacetime, gstat, foreach, parallel, snowfall, doParallel,
         plyr, units, nabor, CAST, ranger, sf, sftime, raster, terra,
         jsonlite
+Suggests: xts
 BugReports: https://github.com/AleksandarSekulic/Rmeteo/issues
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2024-04-18 16:06:24 UTC; sekulic
+Packaged: 2026-03-24 18:06:58 UTC; sekulic
 Repository: CRAN
-Date/Publication: 2024-04-18 18:12:48 UTC
+Date/Publication: 2026-03-24 18:40:11 UTC

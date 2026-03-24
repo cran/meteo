@@ -1,12 +1,12 @@
-7e654d962156236f9c7fb2a982468e2e *DESCRIPTION
+2dccc88a68fbc625978561b453586c24 *DESCRIPTION
 e831394bfeff7213a722daefa1e8b4d3 *LICENCE
 9128eb9472e938cd9831d889de44d9b8 *NAMESPACE
 011e824bde5205567a3c2769467bcd75 *R/acc.metric.fun.R
 95562ef864b0d396acb26092f9eb450c *R/cv.rfsi.R
 6f09bff95e3b9e7fb9574347377a5474 *R/cv.strk.R
 71ba53a3531019e7c1672052937023e5 *R/data.prepare.R
-fdc3b3f8dcd3f62bacb1b6e3b2559fff *R/get_coordinates.R
-16022fa75ad73fa003f08d809444dc6d *R/get_meteo.R
+569c51da14000184ab2e90eb0f38f106 *R/get_coordinates.R
+8cc7effd79f07040e4c91b3d0076e068 *R/get_meteo.R
 2e673609089f69217b06b6c7e9418820 *R/meteo2STFDF.R
 4c5d5b58373e59dc537161c712a17514 *R/near.obs.R
 f2c25b3922f41b62d9735a1aecefce81 *R/near.obs.batimetry.R
@@ -20,7 +20,7 @@ fe3cb4a5b75bbe3afdfe0911f04a2c07 *R/rfsi.R
 53fdb62403fd619b9705d096d1d25fab *R/tgeom2STFDF.R
 7af1f7fb6412fb2ee33dfe21fd114d76 *R/tiling.R
 62b09781f09851be5e37288519d6e7e5 *R/tune.rfsi.R
-46be8aa898120bb18bee8fcbeee244d5 *data/NLpol.rda
+bb7aa58b092a0b6a622b7ab1382b8c0c *data/NLpol.rda
 eed9227cf209fc775dcda8d8c46eca03 *data/datalist
 7c298ebe6462d4c645e70358f00a0cc9 *data/dem_twi_srb.rda
 7754fdee454e0217ae396a3812e42f71 *data/dprec.rda
@@ -59,7 +59,7 @@ a84073f1c9e0d3e4b7b70b19f48e287a *man/dsndp.Rd
 8d6f67bc39c1a8f6a344a43158ed9ae6 *man/dtempc_ogimet.Rd
 aced6858d8df0f7e012fbdf4973a7062 *man/dwdsp.Rd
 f7e9e1340d45f2e712145718a2838ddb *man/get_coordinates.Rd
-27a6c25321fd0435d06676abfd6aae61 *man/get_meteo.Rd
+69816b708cabd51d5aa261df5144543b *man/get_meteo.Rd
 5c2636c5f9be8ea899a72328f8c3e2dc *man/meteo2STFDF.Rd
 149db5b7e1552adef7897d4c6a099ab1 *man/near.obs.Rd
 bb7a74caa75716e7f12683b7bc6f3162 *man/near.obs.soil.Rd
