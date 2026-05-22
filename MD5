@@ -1,4 +1,4 @@
-2dccc88a68fbc625978561b453586c24 *DESCRIPTION
+69d9767e2543ae3b5859955fc1dde9d8 *DESCRIPTION
 e831394bfeff7213a722daefa1e8b4d3 *LICENCE
 9128eb9472e938cd9831d889de44d9b8 *NAMESPACE
 011e824bde5205567a3c2769467bcd75 *R/acc.metric.fun.R
@@ -8,8 +8,8 @@ e831394bfeff7213a722daefa1e8b4d3 *LICENCE
 569c51da14000184ab2e90eb0f38f106 *R/get_coordinates.R
 8cc7effd79f07040e4c91b3d0076e068 *R/get_meteo.R
 2e673609089f69217b06b6c7e9418820 *R/meteo2STFDF.R
-4c5d5b58373e59dc537161c712a17514 *R/near.obs.R
-f2c25b3922f41b62d9735a1aecefce81 *R/near.obs.batimetry.R
+62c58e513b24523ca1fda92360fb4f59 *R/near.obs.R
+b5c787e78ea1c0ec7e9577bda5ddac67 *R/near.obs.batimetry.R
 66b32dc7d092c9114eae48bf24538a80 *R/near.obs.soil.R
 356f281d79a62c47b6469cb2c844e8eb *R/pred.rfsi.R
 0a0b8cea561e38a7f17ca7581e708974 *R/pred.strk.R
@@ -50,14 +50,14 @@ d99f042de8c614467cba262f8b50d47b *man/cv.rfsi.Rd
 3dcf866972e6e97c703714ab71fabc35 *man/cv.strk.Rd
 29f8128008b15c23d8f04db00a26a568 *man/data.prepare.Rd
 994a0bc2f37a510fcbbad2d7f85b398e *man/dem_twi_srb.Rd
-76883dc172034966c939445d97166996 *man/dprec.Rd
-7c199f1b8356e00bf281488e8abbd789 *man/dslp.Rd
-a84073f1c9e0d3e4b7b70b19f48e287a *man/dsndp.Rd
-9f89022a1ce13a33c1d25c58d3156cd7 *man/dtemp_maxc.Rd
-805dada86e7098adc0fc13996d5fee05 *man/dtemp_minc.Rd
-590eb8df510eafbf9a02e6e3faafb572 *man/dtempc.Rd
+39d698553074a27233430d4c1bf2a246 *man/dprec.Rd
+5c4522636095085dbc7b0a23f70443f7 *man/dslp.Rd
+82654716b840556da96e4cc88074fcce *man/dsndp.Rd
+f30c1b0faac6d72f8436086f44ff3919 *man/dtemp_maxc.Rd
+a7f060c7a85dc26769492b753e13840f *man/dtemp_minc.Rd
+b15fd28db316a0f9044256d8b138a023 *man/dtempc.Rd
 8d6f67bc39c1a8f6a344a43158ed9ae6 *man/dtempc_ogimet.Rd
-aced6858d8df0f7e012fbdf4973a7062 *man/dwdsp.Rd
+67782bc1b64383b5fa4ebdcf8087e997 *man/dwdsp.Rd
 f7e9e1340d45f2e712145718a2838ddb *man/get_coordinates.Rd
 69816b708cabd51d5aa261df5144543b *man/get_meteo.Rd
 5c2636c5f9be8ea899a72328f8c3e2dc *man/meteo2STFDF.Rd
@@ -72,7 +72,7 @@ abbba0936c63abfee44209786fffec10 *man/rfillspgaps.Rd
 cc645e3eb05cfad11347366cf2b982f7 *man/rfilltimegaps.Rd
 6800445ed0d1a1b0ae8b2441d3eff2af *man/rfsi.Rd
 146c79e10c3ab203e6bad3ff80070ebb *man/rm.dupl.Rd
-70eb32512a214bb77eec1820fac4e574 *man/stations.Rd
+37064408a0ee56d8290cd7b6e0fc3a11 *man/stations.Rd
 d98e6722c7ee53f4212d16942eb2cdc0 *man/stations_ogimet.Rd
 df6ff2dcd3a89829d921f278b5b32b42 *man/temp_geom.Rd
 c5bc3c6d0ba62e19860a3970052b9afb *man/tgeom2STFDF.Rd
